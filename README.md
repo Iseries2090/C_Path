@@ -6,3 +6,5 @@ test uplooad - from vscode
 test upload from Visual Studio - CE 2022
 
 test upload - from vscode - laptop
+
+test upload - from VS Community - laptop
