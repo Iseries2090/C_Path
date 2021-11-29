@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\OOP_Fundamentals"
+    "\\C# Getting Started",
+    "\\OOP_Fundamentals\\ACM",
+    "\\OOP_Fundamentals\\ACM\\Test",
+    "\\OOP_Fundamentals\\ACM\\Test\\ACM.BLTest"
   ],
-  "SelectedNode": "\\OOP_Fundamentals",
+  "SelectedNode": "\\C# Getting Started",
   "PreviewInSolutionExplorer": false
 }
