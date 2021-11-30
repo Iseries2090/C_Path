@@ -1,0 +1,15 @@
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.exe
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.deps.json
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.runtimeconfig.json
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.dll
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\bin\Debug\net6.0\ref\MyFirstProgram.dll
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\bin\Debug\net6.0\MyFirstProgram.pdb
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.csproj.AssemblyReference.cache
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.AssemblyInfoInputs.cache
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.AssemblyInfo.cs
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.dll
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\obj\Debug\net6.0\ref\MyFirstProgram.dll
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.pdb
+C:\GitHub\C_Path\C# Getting Started\MyFirstProgram\obj\Debug\net6.0\MyFirstProgram.genruntimeconfig.cache

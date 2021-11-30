@@ -1,6 +1,7 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\OOP_Fundamentals",
     "\\OOP_Fundamentals\\ACM",
     "\\OOP_Fundamentals\\ACM\\ACM.BL",
@@ -8,5 +9,13 @@
     "\\OOP_Fundamentals\\ACM\\Test\\ACM.BLTest"
   ],
   "SelectedNode": "\\OOP_Fundamentals\\ACM\\Test\\ACM.BLTest\\CustomerTest.cs",
+=======
+    "\\C# Getting Started",
+    "\\OOP_Fundamentals\\ACM",
+    "\\OOP_Fundamentals\\ACM\\Test",
+    "\\OOP_Fundamentals\\ACM\\Test\\ACM.BLTest"
+  ],
+  "SelectedNode": "\\C# Getting Started",
+>>>>>>> 9ca450910b6e9685b02c9a82e04d37f92ef98e55
   "PreviewInSolutionExplorer": false
 }
