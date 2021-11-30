@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\OOP_Fundamentals"
+    "\\OOP_Fundamentals",
+    "\\OOP_Fundamentals\\ACM",
+    "\\OOP_Fundamentals\\ACM\\ACM.BL",
+    "\\OOP_Fundamentals\\ACM\\Test",
+    "\\OOP_Fundamentals\\ACM\\Test\\ACM.BLTest"
   ],
-  "SelectedNode": "\\OOP_Fundamentals",
+  "SelectedNode": "\\OOP_Fundamentals\\ACM\\Test\\ACM.BLTest\\CustomerTest.cs",
   "PreviewInSolutionExplorer": false
 }
